@@ -1,0 +1,171 @@
+.header {
+  background-color: #2d3e50;
+  height: auto;
+}
+
+.header-logo {
+  width: 100%;
+  height: auto;
+}
+
+.banner-holder {
+  width: 100%;
+  height: calc(100vh - 118px);
+  background: url(assets/images/banner_image.jpg) top right no-repeat;
+  background-size: cover;
+}
+
+.login-holder {
+  width: 35%;
+  height: calc(100vh - 118px);
+  background-color: rgba(55, 116, 166, 0.8);
+  float: right;
+}
+
+.signin-user {
+  font-size: 6vh;
+  color: white;
+}
+
+.form-group.form-group-sm.react-bs-table-search-form input.form-control {
+  border: 1px solid #b7b7b7 !important;
+  margin: 10px 0;
+}
+
+i.fa {
+  padding: 5px;
+  font-size: 20px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  text-align: center;
+}
+
+i.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+button.savebtn {
+  background: #01aeef;
+  float: right;
+  margin: 10px 0;
+  padding: 5px 25px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.user-icon {
+  font-size: 36px;
+  color: white;
+  cursor: pointer;
+  background-color: #2d3e50;
+  border: none;
+}
+
+.user-icon:hover {
+  color: #01aeef;
+}
+
+.signout {
+  visibility: hidden;
+  position: fixed;
+}
+
+.signout-popup {
+  visibility: visible;
+  position: absolute;
+  z-index: 1;
+  margin-top: 6px;
+  right: 15px;
+}
+
+.signout-popup::after {
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  left: 86%;
+  border-width: 8px;
+  border-style: solid;
+  border-color: transparent transparent white transparent;
+}
+
+#snackbar {
+  visibility: hidden;
+  min-width: 250px;
+  margin-left: -125px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 2px;
+  padding: 16px;
+  position: fixed;
+  z-index: 1;
+  left: 50%;
+  bottom: 30px;
+  font-size: 15px;
+}
+
+#snackbar.show {
+  visibility: visible;
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+@-webkit-keyframes fadein {
+  from {
+    bottom: 0;
+    opacity: 0;
+  }
+  to {
+    bottom: 30px;
+    opacity: 1;
+  }
+}
+
+@keyframes fadein {
+  from {
+    bottom: 0;
+    opacity: 0;
+  }
+  to {
+    bottom: 30px;
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeout {
+  from {
+    bottom: 30px;
+    opacity: 1;
+  }
+  to {
+    bottom: 0;
+    opacity: 0;
+  }
+}
+
+@keyframes fadeout {
+  from {
+    bottom: 30px;
+    opacity: 1;
+  }
+  to {
+    bottom: 0;
+    opacity: 0;
+  }
+}

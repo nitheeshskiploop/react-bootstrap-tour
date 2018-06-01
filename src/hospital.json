@@ -1,0 +1,626 @@
+[
+    {
+        "serialNum":1,
+        "itemDescription":"Dialysis Machine ",
+        "brand":"Fresenius",
+        "model":"4008H",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum":2,
+        "itemDescription":"GE Logiq V5 Ultrasound Latest Colour Doppler System ",
+        "brand":"Wipro-GE",
+        "model":" Logiq V5",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum":3,
+        "itemDescription":"Semi Automated Biochemistry Analyser ",
+        "brand":"Transasia Biomedicals Ltd",
+        "model":"Erba Chem-7",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum":4,
+        "itemDescription":"Computed RadiogrAndhra Pradeshhy System ",
+        "brand":"FujiFilm",
+        "model":"Fuji CR",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    }
+    ,
+    {
+        "serialNum":5,
+        "itemDescription":" Air Conditioner-Split, Cassette and Ductable Unit ",
+        "brand":"Sri Ram Aircon",
+        "model":"Hitachi",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    }
+    ,
+    {
+        "serialNum":6,
+        "itemDescription":"Fully Automated Hematology Analyser ",
+        "brand":"Transasia Biomedicals Ltd",
+        "model":"Sysmex XP-100",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    }
+    ,
+    {
+        "serialNum":7,
+        "itemDescription":"Multi – purpose Motorized Surgical Table ",
+        "brand":"Palakkad Surgical Industries Ltd",
+        "model":"Palakkad Surgical Industries Ltd",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    }
+    ,
+    {
+        "serialNum":8,
+        "itemDescription":"Computed RadiogrAndhra Pradeshhy System with 3KVA UPS ",
+        "brand":"FujiFilm",
+        "model":"Fuji CR",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    }
+    ,
+    {
+        "serialNum":9,
+        "itemDescription":"X Ray ",
+        "brand":"Siemens",
+        "model":"Siemens",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    }
+    ,
+    {
+        "serialNum":10,
+        "itemDescription":"Anaesthesia Workstation ",
+        "brand":"Arista Medical",
+        "model":"Mindray WATO EX 20",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    }
+    ,
+    {
+        "serialNum":11,
+        "itemDescription":"Dell Server, Desktop, UPS ",
+        "brand":"Arrow PC ",
+        "model":"PowerEdge T430 server, Optiplex 3046, Emerson UPS",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    }
+    ,
+    {
+        "serialNum":12,
+        "itemDescription":"Jonhsons Lifts ",
+        "brand":"Johnsons ",
+        "model":"Stretcher passenger 15 and 20 persons",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    }
+    ,
+    {
+        "serialNum":13,
+        "itemDescription":"Lab Equipment ",
+        "brand":"Avantor",
+        "model":"Elisa Reader and washer E21 and W21, Hematology AnalyzerH33s",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    }
+    ,
+    {
+        "serialNum":14,
+        "itemDescription":"Lab Equipment ",
+        "brand":"Avantor, Biosystems",
+        "model":"Biochemistry analyzer BTS 350, Hematology Analyzer H31",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    }
+    ,
+    {
+        "serialNum":15,
+        "itemDescription":"ICU/OT Monitor ",
+        "brand":"Philips",
+        "model":"Efficia CM 10",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    }
+    ,
+    {
+        "serialNum":16,
+        "itemDescription":"Lab Equipment, Autoclave, Washing Machine ",
+        "brand":"Sritech, REW, NAT steel",
+        "model":"Biochemistry analyzer BTS 350, Hematology Analyzer, Chem 5X, Vertical Autoclave, 7 Kg Washing Machine, Elisa Reader E21",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":17,
+        "itemDescription":"PhysiotherAndhra Pradeshy Equipment ",
+        "brand":"Gurudeo Meditech",
+        "model":"PhysiotherAndhra Pradeshy Equipment/ Components",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":18,
+        "itemDescription":"Sterilizer ",
+        "brand":"Periclave",
+        "model":"Sterilizer Periclave",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":19,
+        "itemDescription":"UltrasonogrAndhra Pradeshhy Equipment ",
+        "brand":"Mindray    ",
+        "model":"Mindray- DP-50",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":20,
+        "itemDescription":"OT Lights and OT pendants ",
+        "brand":"BET Medical Technologies",
+        "model":"Vivid 160/100 Trilite LS 800-550",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":21,
+        "itemDescription":"ECG , Fetal Doppler, Fully Automatic Biochemistry Analyzer ",
+        "brand":"Maruthi Medical Services",
+        "model":"Cardiart 9108, BTS A 15, Fetal Doppler FD 9713N",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":22,
+        "itemDescription":"Oxygen Generator ",
+        "brand":"Airox Technologies",
+        "model":"ASD + ",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":23,
+        "itemDescription":"ICU Equipment ",
+        "brand":"Bombay Surgical",
+        "model":"ICU Furniture, ",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":24,
+        "itemDescription":"ICU Equipment ",
+        "brand":"Maestros",
+        "model":"Multi para monitors, Defibrillators",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":25,
+        "itemDescription":"Ventilators ",
+        "brand":"Draeger",
+        "model":"Savina 300",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":26,
+        "itemDescription":"Lab Equipment ",
+        "brand":"Excellent Traders, Agpe, Alifax",
+        "model":"Mispa Clog, Elisa reader, Waasher, ESR Analyzer",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":27,
+        "itemDescription":"Lab Equipment ",
+        "brand":"",
+        "model":"Lab Equipment",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":28,
+        "itemDescription":"Laundry Equipment ",
+        "brand":"SPARK",
+        "model":"SPARK",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":29,
+        "itemDescription":"Laminar Air Flow Settings in OT ",
+        "brand":"",
+        "model":"",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":30,
+        "itemDescription":"Desktops, Printer and UPS ",
+        "brand":"Arrow PC",
+        "model":"DELL",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":31,
+        "itemDescription":"Digital X-Ray ",
+        "brand":"Fujifilm",
+        "model":"FCR Prima T with Dry Pix Lite",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":32,
+        "itemDescription":"PhototherAndhra Pradeshy Equipment ",
+        "brand":"Dermaindia",
+        "model":"ESPOT NBUVB without Trimmer",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":33,
+        "itemDescription":"Philips Lights   ",
+        "brand":"Philips",
+        "model":"Philips",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":34,
+        "itemDescription":"Switches and Other Electrical Accessories ",
+        "brand":"Legrand",
+        "model":"Legrand",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":35,
+        "itemDescription":"Ceiling Fans",
+        "brand":"Crompton Greaves",
+        "model":"Crompton Greaves",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    } ,
+    {
+        "serialNum":36,
+        "itemDescription":"Ventilator ",
+        "brand":"Mindray",
+        "model":"Mindray SV300",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum":37,
+        "itemDescription":"CT Scan",
+        "brand":"GE",
+        "model":"Revolution CT 16 Slice",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum":38,
+        "itemDescription":"Nurse Call System",
+        "brand":"Data Care",
+        "model":"Nurse Call System-XS Model",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum":39,
+        "itemDescription":"Fetal/ Maternal Monitor ",
+        "brand":"Philips",
+        "model":"CTG7",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum":40,
+        "itemDescription":"Ultrasonograhy Equipment",
+        "brand":"GE",
+        "model":"Logiq v5",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum":41,
+        "itemDescription":"OT Lights",
+        "brand":"Draeger",
+        "model":"OT lights",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum":42,
+        "itemDescription":"Ultra Gel",
+        "brand":"BPL",
+        "model":"Ultra Gel",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum":43,
+        "itemDescription":"Sony Medical Monitor",
+        "brand":"Sony ",
+        "model":"21 inch monitor",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum":44,
+        "itemDescription":"Servers and Desktops",
+        "brand":"Arrow PC",
+        "model":"Dell",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum":45,
+        "itemDescription":"Dialysis Machine",
+        "brand":"",
+        "model":"",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum":46,
+        "itemDescription":"Dental X-Ray ",
+        "brand":"Alerio",
+        "model":"Portable Dental X-Ray Unit",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 47,
+        "itemDescription": "Incinerator",
+        "brand": "Scientico",
+        "model": "Biomedical Waste incinerator",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 48,
+        "itemDescription": "Infant Warmer",
+        "brand": "Phoenix",
+        "model": "Phoenix",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 49,
+        "itemDescription": "Philips Monitors",
+        "brand": "Philips",
+        "model": "G30, Efficia",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 50,
+        "itemDescription": "Sofware Price verification",
+        "brand": "E-Adware",
+        "model": "HIS",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 51,
+        "itemDescription": "Diesel Engine Pump",
+        "brand": "Star Fire",
+        "model": "Diesel Engine pump",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 52,
+        "itemDescription": "Defibrillator",
+        "brand": "BPL",
+        "model": "BPL",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 53,
+        "itemDescription": "OT Door",
+        "brand": "Metaflex",
+        "model": "Metaflex",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 54,
+        "itemDescription": "Hospital Furniture",
+        "brand": "Janak Healthcare",
+        "model": "Janak Healthcare",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 55,
+        "itemDescription": "ENT Equipment",
+        "brand": "Vaansari Marketing services",
+        "model": "Vaansari Marketing services",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 56,
+        "itemDescription": "Dental equipment",
+        "brand": "Confident Dental Equipments Ltd.",
+        "model": "Confident Dental Equipments Ltd.",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 57,
+        "itemDescription": "Opthalmology Equipment",
+        "brand": "Appasamy Associates",
+        "model": "Appasamy Associates",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 58,
+        "itemDescription": "A 4 Size Paper",
+        "brand": "",
+        "model": "",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 59,
+        "itemDescription": "Neon Sign Boards",
+        "brand": "Azim Ads",
+        "model": "Azim Ads",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 60,
+        "itemDescription": "Binocular Microscope",
+        "brand": "Olympus",
+        "model": "CH20i",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 61,
+        "itemDescription": "C-Arm",
+        "brand": "Medion",
+        "model": "Surgix",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 62,
+        "itemDescription": "Hitachi Ac's",
+        "brand": "Hitachi",
+        "model": "Hitachi",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 63,
+        "itemDescription": "Anaesthesia Workstation",
+        "brand": "",
+        "model": "",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 64,
+        "itemDescription": "Ventilator",
+        "brand": "Skanray",
+        "model": "Skanrespira plus",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 65,
+        "itemDescription": "Ventilators",
+        "brand": "Philips",
+        "model": "v680",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 66,
+        "itemDescription": "C-Arm",
+        "brand": "Siemens",
+        "model": "Multimobil 5E",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 67,
+        "itemDescription": "Generator",
+        "brand": "Jakson",
+        "model": "Jakson",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    },
+    {
+        "serialNum": 68,
+        "itemDescription": "Biochemistry analyzer",
+        "brand": "Turbochem 240, CPC Diagnostics",
+        "model": "Turbochem 240",
+        "value":"",
+        "createdDate":"",
+        "createdBy":""
+    }
+]
